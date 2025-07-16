@@ -1,0 +1,10 @@
+pysqlite3-binary 
+typing
+sentence_transformers
+langchain_core
+torch
+langchain_chroma
+langfuse
+dotenv
+langfuse
+openai
